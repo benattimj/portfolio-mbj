@@ -39,8 +39,9 @@ const About = () => {
           <small> 5+ Completed </small>
       </article>
 
-        <p>Clear and effective objectives, the whole structure is analyzed and sustainable, easy to implement, without limits, organized, clean and with little processing. Fast APIs and secure servers.
-           The architecture is the focus, a system in components.
+        <p className='P'>- Clear and effective objectives - The whole structure is analyzed and sustainable - Easy to implement, without limits - organized - 
+        Clean clode  with little processing - Fast APIs and secure servers
+          - The architecture is the focus a system in components.
 
         </p>
 
