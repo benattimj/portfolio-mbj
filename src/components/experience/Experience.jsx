@@ -4,7 +4,7 @@ import './experience.css'
 const Experience = () => {
   return (
 
-    <div> Experience Intern</div>
+    <section id='experience'> Experience Intern</section>
   )
 }
 

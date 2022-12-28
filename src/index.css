@@ -14,7 +14,7 @@
 :root {
     --color-bg: #1f1f38;
     --color-bg-variant: #2c2c6c;
-    --color-primary: #ffd54d;
+    --color-primary: #4dbeff;
     --color-primary-variant: rgba(77,181,255,0.4);
     --color-white: #fff;
     --color-light: rgba(255,255,255, 0.6);
@@ -133,6 +133,8 @@ img {
 
 section {
     margin-top: 6rem;
+    height: 100vh;
+
 }
     
 
@@ -144,11 +146,10 @@ section {
      }
 }
 
-section > h2 
-{
+section > h2 {
     margin-top: 2rem;
-}
-    
+
+} 
 
 .me {
     width: 400px;
@@ -157,9 +158,3 @@ section > h2
 
 }
 
-
-.App {
-
-
-
-}
