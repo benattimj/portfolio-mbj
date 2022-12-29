@@ -2,11 +2,12 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 5rem;
+ 
     
-
 }
 
 .experience_container > div {
+
     background: var(--color-bg-variant);
     padding: 2.4rem 5rem;
     border-radius: 2rem;
@@ -17,6 +18,7 @@
 
 .experience_container > div:hover {
     background: transparent;
+    display: inline-block;
     border-color: var(--color-primary-variant);
 }
 
@@ -33,10 +35,14 @@
     row-gap: 2rem;
 }
 
-experience_details{
+.experience_details {
     display: flex;
     gap: 1rem;
 
+}
+
+.experience_frontend{
+    
 }
 
 .experince_details-icon {
@@ -65,6 +71,5 @@ experience_details{
 @media screen and (max-width: 600px) {
     .experience_container {
         gap: 1rem;
-        
     }
 }

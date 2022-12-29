@@ -54,11 +54,8 @@ const Experience = () => {
       </article>
 </div>
     </div>
-      </div>
-
 {/* END OF FRONTEND */}
 
-<div className="container experience_container"> 
       <div className="experience_frontend">
         <h3> Backend Development</h3>
     <div className="experience_content">

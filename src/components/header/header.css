@@ -5,6 +5,10 @@ overflow: hidden;
 
 }
 
+.me{
+    border-radius: 2rem;
+
+}
 
 .header_container {
     text-align: center;
@@ -19,7 +23,7 @@ overflow: hidden;
     gap: 0.8rem;
     position: absolute;
     left: 0;
-    bottom: 3rem;
+    bottom: 30rem;
 
 
 }
