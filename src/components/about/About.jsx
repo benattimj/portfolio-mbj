@@ -39,13 +39,14 @@ const About = () => {
           <small> 5+ Completed </small>
       </article>
 
-        <p className='P'>- Clear and effective objectives - The whole structure is analyzed and sustainable - Easy to implement, without limits - organized - 
+        <p className='P'>- Renowned professional, knowledge in several areas after different experiences, currently developing FullStack safe technologies for your business. Focus on complete and absolute control systems, 
+        partitions of your application with total perfect architecture. Easy to implement, without limits - organized - 
         Clean clode  with little processing - Fast APIs and secure servers
           - The architecture is the focus a system in components.
 
         </p>
 
-        <a href="#contact" className='btn'> Let's Talk
+        <a href ="https://www.linkedin.com/in/murilo-justinob/recent-activity/" className='btn'> Let's Talk
         </a>
       </div>
     </div>

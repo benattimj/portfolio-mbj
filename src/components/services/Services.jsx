@@ -19,14 +19,14 @@ const Services = () => {
 <ul className='service_list'>
    <li>
       <FiCheck className='service_list-icon'/>
-        <p> Lorem, ipsum dolor sit amet constecteur adipiscing.</p>  
+        <p>The art of structure is in the beauties.</p>  
     </li>
     <li>
       <FiCheck className='service_list-icon'/>
-        <p> Lorem, ipsum dolor sit amet constecteur adipiscing</p>  
+        <p>Our inspiration is in the idea of ​​innovating, of shining we need energy.</p>  
     </li> <li>
       <FiCheck className='service_list-icon'/>
-        <p> Lorem, ipsum dolor sit amet constecteur adipiscing</p>  
+        <p>Creating applications with the best visuals, real structures, absolute control.</p>  
     </li>
      <li>
       <FiCheck className='service_list-icon'/>
@@ -50,24 +50,24 @@ const Services = () => {
 <ul className='service_list'>
    <li>
       <FiCheck className='service_list-icon'/>
-        <p> Products, Clients, Storage, Financials, </p>  
+        <p> Systems of Products, Clients, Storage, Financials, sales </p>  
     </li>
     <li>
       <FiCheck className='service_list-icon'/>
-        <p> Lorem, ipsum dolor sit amet constecteur adipiscing</p>  
+        <p>The latest, most advanced and fastest technology on the market</p>  
     </li> <li>
       <FiCheck className='service_list-icon'/>
-        <p> Lorem, ipsum dolor sit amet constecteur adipiscing</p>  
+        <p> Support, update and renews on your application.</p>  
     </li>
      <li>
       <FiCheck className='service_list-icon'/>
-        <p> Lorem, ipsum dolor sit amet constecteur adipiscing</p>  
+        <p> The idea its not be limited</p>  
     </li> <li>
       <FiCheck className='service_list-icon'/>
-        <p> Lorem, ipsum dolor sit amet constecteur adipiscing</p>  
+        <p> Practical, easy to access, good reading and many sales</p>  
     </li> <li>
       <FiCheck className='service_list-icon'/>
-        <p> Lorem, ipsum dolor sit amet constecteur adipiscing</p>  
+        <p> Thats sounds perfect for you</p>  
     </li>
     </ul>
     </article>
@@ -82,24 +82,24 @@ const Services = () => {
 <ul className='service_list'>
    <li>
       <FiCheck className='service_list-icon'/>
-        <p> Lorem, ipsum dolor sit amet constecteur adipiscing</p>  
+        <p> Web Store systems</p>  
     </li>
     <li>
       <FiCheck className='service_list-icon'/>
-        <p> Lorem, ipsum dolor sit amet constecteur adipiscing</p>  
+        <p> Portfolio applications</p>  
     </li> <li>
       <FiCheck className='service_list-icon'/>
-        <p> Lorem, ipsum dolor sit amet constecteur adipiscing</p>  
+        <p> Control of products application</p>  
     </li>
      <li>
       <FiCheck className='service_list-icon'/>
-        <p> Lorem, ipsum dolor sit amet constecteur adipiscing</p>  
+        <p> Hotel Systems</p>  
     </li> <li>
       <FiCheck className='service_list-icon'/>
-        <p> Lorem, ipsum dolor sit amet constecteur adipiscing</p>  
+        <p> Financial control system</p>  
     </li> <li>
       <FiCheck className='service_list-icon'/>
-        <p> Lorem, ipsum dolor sit amet constecteur adipiscing</p>  
+        <p> E-commerce</p>  
     </li>
     </ul>
 
