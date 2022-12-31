@@ -24,17 +24,17 @@ const data = [
 {
   avatar: AVTR2,
   name: 'Willian Guilt',
-  review: 'Nice work The move follows a detailed project review that identified several opportunities to de-bottleneck the refinery and revamp'
+  review: 'I spent to much time searching for something like you. Thanks for the support.'
 },
 {
   avatar: AVTR3,
   name: 'Serina Dechichi',
-  review: 'Nice work The move follows a detailed project review that identified several opportunities to de-bottleneck the refinery and revamp'
+  review: ' Amazing functions, Its perfect nowadays have systems and applications done with sucessfull work hard'
 },
 {
   avatar: AVTR4,
   name: 'Gesse Borges',
-review: 'Nice work The move follows a detailed project review that identified several opportunities to de-bottleneck the refinery and revamp'
+review: 'Easy to use platform. Very good and fast support. Highly recommended.'
 }
 
 
