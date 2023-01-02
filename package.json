@@ -1,6 +1,6 @@
 {
   "name": "reactmbjportfolio",
-  "homepage": "https://github.com/benattimj/react-portfolio-website",
+  "homepage": "react-portfolio-website/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
