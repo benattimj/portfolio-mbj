@@ -23,7 +23,7 @@ const Portfolio = () => {
          <h3>System in parts guaranteeing total freedom of implementation.</h3>
          <div className="portfolio_item-cta">
         <a href="https://github.com/benattimj" className='btn btn-primary'>GitHub</a>
-                <a href="https://dribbble.com/shots/20239671-Wallet-Desktop-app" className='btn' target='_blank'>Live Demo</a>
+                <a href="https://mbjmeta.netlify.app/" className='btn' target='_blank' rel="noopener noreferrer">Live Demo</a>
                 </div>
         </article>
 
@@ -35,7 +35,7 @@ const Portfolio = () => {
         <h3>Softwares capable of doing the impossible</h3>
         <div className="portfolio_items-cta">
         <a href="https://github.com/benattimj" className='btn btn-primary'>GitHub</a>
-                <a href="https://dribbble.com/shots/20239671-Wallet-Desktop-app" className='btn' target='_blank'>Live Demo</a>
+                <a href="https://dribbble.com/shots/20239671-Wallet-Desktop-app" className='btn' target='_blank' rel="noopener noreferrer">Live Demo</a>
        </div>
 
         </article>
@@ -48,7 +48,7 @@ const Portfolio = () => {
         <div className="portfolio_item-cta">
         <h3>Systems capable of controlling and managing your business</h3>
         <a href="https://github.com/benattimj" className='btn btn-primary'>GitHub</a>
-                <a href="https://dribbble.com/shots/20239671-Wallet-Desktop-app" className='btn' target='_blank'>Live Demo</a>
+                <a href="https://dribbble.com/shots/20239671-Wallet-Desktop-app" className='btn' target='_blank' rel="noopener noreferrer">Live Demo</a>
         </div>
         </article>
              
@@ -59,7 +59,7 @@ const Portfolio = () => {
         <div className="portfolio_item-cta">
         <h3>Enterprise resource planning - ERP</h3>
         <a href="https://github.com/benattimj" className='btn btn-primary'>GitHub</a>
-                <a href="https://dribbble.com/shots/20239671-Wallet-Desktop-app" className='btn ' target='_blank'>Live Demo</a>
+                <a href="https://dribbble.com/shots/20239671-Wallet-Desktop-app" className='btn ' target='_blank' rel="noopener noreferrer">Live Demo</a>
         </div>
         </article>
 
@@ -70,7 +70,7 @@ const Portfolio = () => {
         <div className="portfolio_item-cta">
         <h3>Be able to control everything in one application</h3>
         <a href="https://github.com/benattimj" className='btn btn-primary'>GitHub</a>
-                <a href="https://dribbble.com/shots/20239671-Wallet-Desktop-app" className='btn ' target='_blank'>Live Demo</a>
+                <a href="https://dribbble.com/shots/20239671-Wallet-Desktop-app" className='btn ' target='_blank' rel="noopener noreferrer">Live Demo</a>
         </div>
         </article>
              

@@ -7,10 +7,10 @@ import {ImLinkedin} from 'react-icons/im'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer_logo'>MBJ Development</a>
+      <a href="/#" className='footer_logo'>MBJ Development</a>
 
 <ul className='permalinks'>
-  <li><a href="#">Home</a></li>
+  <li><a href="/#">Home</a></li>
   <li><a href="#about">About</a></li>
   <li><a href="#experience">Experience</a></li>
   <li><a href="#services">Services</a></li>

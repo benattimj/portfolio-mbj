@@ -14,7 +14,7 @@ const About = () => {
       <div className="container about_container">
         <div className="about_me">
           <div className="about_me-image">
-            <img src={ME} alt="About image" />
+            <img src={ME} alt="" />
           </div>
         </div>
 
@@ -46,8 +46,10 @@ const About = () => {
 
         </p>
 
-        <a href ="https://www.linkedin.com/in/murilo-justinob/recent-activity/" className='btn'> Let's Talk
+          <x>
+        <a href ="https://www.linkedin.com/in/murilo-justinob/recent-activity/" className='btn btn-primary'> Let's Talk
         </a>
+        </x>
       </div>
     </div>
 </div>

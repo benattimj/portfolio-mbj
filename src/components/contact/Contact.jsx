@@ -24,7 +24,7 @@ const Contact = () => {
   <RiMessengerFill className='contact_option-icon'/>
     <h4>Messenger</h4>
     <h5>Murilo Services</h5>
-    <a href="https://m.me/murilo.benatti.980" target="_blank"> Send a message</a>
+    <a href="https://m.me/murilo.benatti.980" target="_blank" rel="noopener noreferrer"> Send a message</a>
 </article>
 
 <article className="contact_option">
